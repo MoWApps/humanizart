@@ -1,11 +1,11 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "es"
+languageName = "Spanish"
 weight = 1
 title = "HUMANIZART"
 
 [params]
-displayName = "EN"
-isoCode = "en"
+displayName = "ES"
+isoCode = "es"
 rtl = false
 dateFormat = "2 January 2006"
 description = "Humanize your company again"
@@ -14,4 +14,4 @@ logo = "android-chrome-512x512.png"
 
 [author]
 name = "HUMANIZART"
-headline = "Stay tuned..."
+headline = "Próximamente"
