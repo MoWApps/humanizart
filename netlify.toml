@@ -4,7 +4,7 @@
 
 [build.environment]
 HUGO_THEMESDIR = "themes"
-HUGO_THEME = "repo"
+HUGO_THEME = "blowfish"
 TZ = "Spain/Madrid"
 
 [context.production.environment]
